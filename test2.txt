@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC13-EE9E
+
+ Directory of C:\Selenium_Workspace\MyTestMaven
+
+2019-04-23  09:50 AM    <DIR>          .
+2019-04-23  09:50 AM    <DIR>          ..
+2019-04-02  09:29 AM             2,825 .classpath
+2019-03-28  01:26 PM               668 .project
+2019-03-28  01:26 PM    <DIR>          .settings
+2019-04-02  09:32 AM             2,893 pom.xml
+2019-03-28  01:20 PM    <DIR>          src
+2019-04-17  02:01 PM    <DIR>          target
+2019-04-02  01:56 PM    <DIR>          test-output
+2019-04-23  09:50 AM                 0 test2.txt
+2019-04-02  01:51 PM               481 testng.xml
+               5 File(s)          6,867 bytes
+               6 Dir(s)  51,521,753,088 bytes free
